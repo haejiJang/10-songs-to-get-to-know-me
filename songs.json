@@ -1,0 +1,84 @@
+{
+  "songs": [
+    {
+      "id": "codeZero",
+      "youtubeURL": "https://youtu.be/K0icijxhvSc?si=M3j_Es_MH4T8nOrj",
+      "position": {
+        "top": "8%",
+        "left": "12%"
+      }
+    },
+    {
+      "id": "dang",
+      "youtubeURL": "https://youtu.be/HbDOdFRLV0U?si=izQ9ul-2BmVsf_XR",
+      "position": {
+        "top": "26%",
+        "left": "4%"
+      }
+    },
+    {
+      "id": "disillusioned",
+      "youtubeURL": "https://youtu.be/DloZ1xZHCmo?si=74w6HSN5yyOCcy7F",
+      "position": {
+        "top": "44%",
+        "left": "1%"
+      }
+    },
+    {
+      "id": "howSweet",
+      "youtubeURL": "https://youtu.be/Q3K0TOvTOno?si=uJGx8Y35SxeSG7O-",
+      "position": {
+        "top": "62%",
+        "left": "5%"
+      }
+    },
+    {
+      "id": "magic",
+      "youtubeURL": "https://youtu.be/1PvBc2TOpE4?si=7RBZVb8TnME0ERFU",
+      "position": {
+        "top": "80%",
+        "left": "17%"
+      }
+    },
+    {
+      "id": "stayAlive",
+      "youtubeURL": "https://youtu.be/bvjNyJ8TBNk?si=2RtiOETFeF3XVgcZ",
+      "position": {
+        "top": "78%",
+        "left": "51%"
+      }
+    },
+    {
+      "id": "sunflower",
+      "youtubeURL": "https://youtu.be/ApXoWvfEYVU?si=E2uJJWP7auERGGXF",
+      "position": {
+        "top": "61%",
+        "left": "61%"
+      }
+    },
+    {
+      "id": "theLessIKnowtheBetter",
+      "youtubeURL": "https://youtu.be/sBzrzS1Ag_g?si=NvYPyumguylcS9vW",
+      "position": {
+        "top": "44%",
+        "left": "71%"
+      }
+    },
+    {
+      "id": "y",
+      "youtubeURL": "https://youtu.be/rt7M0hbLg48?si=8Ajlx1UAvakNI3pw",
+      "position": {
+        "top": "27%",
+        "left": "67%"
+      }
+    },
+    {
+      "id": "ylangYlang",
+      "youtubeURL": "https://youtu.be/EfgAd6iHApE?si=85j69QyXNHZita7M",
+      "position": {
+        "top": "10%",
+        "left": "46%"
+      }
+    }
+  ]
+}

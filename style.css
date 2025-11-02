@@ -1,0 +1,49 @@
+:root {
+  --container-max-width: 768px;
+  --album-cover-ratio: 0.28; /* 28.6% of container width */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  background-color: #000;
+  overflow: hidden;
+}
+
+#albumContainer {
+  position: relative;
+  width: 100%;
+  max-width: var(--container-max-width);
+  display: flex;
+  justify-content: center;
+}
+
+#backgroundImg {
+  width: auto;
+  height: 100vh;
+  display: block;
+}
+
+.album-cover {
+  position: absolute;
+  width: 28vw;
+  height: auto;
+  max-width: calc(var(--container-max-width) * var(--album-cover-ratio));
+  max-height: calc(var(--container-max-width) * var(--album-cover-ratio));
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.album-cover:hover {
+  transform: scale(1.05);
+}
